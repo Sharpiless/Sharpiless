@@ -1,7 +1,6 @@
  ### I Love <span style="color:red">❤</span> the DeepLearning<span style="color:white">🧠</span> and Computer Vision<span style="color:white">👀</span>
 
 Hi 👋, I am **BIT可达鸭**.<br>Welcome to my repositories. Hope you can enjoy everything here.</br><br></br>
-
 my wechat: Sharpiless
 
 Here are some ideas to get you started:
