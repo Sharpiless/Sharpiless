@@ -20,4 +20,3 @@ my wechat（微信）: Sharpiless
 <image src="https://github-profile-trophy.vercel.app/?username=sharpiless&theme=dracula"/>
 <br></br>
 
-<image src="https://github.com/Sharpiless/Sharpiless/blob/main/20121346CDG3QR0FB.png"/>
