@@ -4,7 +4,7 @@
 
 #### my wechat（微信）: Sharpiless
 
-#### I'm now working on model compression(quantification, pruning and distillation).
+#### I'm now working on model compression(quantization, pruning and distillation).
 
 <b>
     <image src="https://github-readme-stats.vercel.app/api?username=sharpiless&show_icons=true&theme=tokyonight" width=400>
