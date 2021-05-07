@@ -18,3 +18,5 @@
 
 <image src="https://github-profile-trophy.vercel.app/?username=sharpiless&theme=dracula"/>
 <br></br>
+
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="320" />
