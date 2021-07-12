@@ -5,8 +5,9 @@
 #### Reach me by my wechat（微信）: Sharpiless or my e-mail: 1691608003@qq.com. Thanks!
 
 #### I'm now working on 
-    - computer vision(classification, detection and point cloud).
+    - computer vision(classification, detection and segmentation).
     - model compression(quantization, pruning and distillation).
+    - point cloud
     
 #### Still intrested in  
     - RL, GAN, GCN, etc.
