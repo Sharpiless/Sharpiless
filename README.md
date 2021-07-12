@@ -2,8 +2,6 @@
 
 #### Hi 👋, I am **BIT可达鸭**. Welcome to my repositories. Hope you can enjoy everything here.</br>
 
-### 💞️ I’m looking for a PhD position.
-
 #### Reach me by my wechat（微信）: Sharpiless or my e-mail: 1691608003@qq.com. Thanks!
 
 #### I'm now working on 
