@@ -7,10 +7,9 @@
 #### I'm now working on 
     - computer vision(classification, detection and segmentation).
     - model compression(quantization, pruning and distillation).
-    - point cloud
     
 #### Still intrested in  
-    - RL, GAN, GCN, etc.
+    - RL, GAN, GCN, point cloud， etc.
 
 <b>
     <image src="https://github-readme-stats.vercel.app/api?username=sharpiless&show_icons=true&theme=tokyonight" width=400>
