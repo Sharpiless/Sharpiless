@@ -9,7 +9,7 @@
     - model compression(quantization, pruning and distillation).
     
 #### Still intrested in  
-    - RL, GAN, GCN, point cloud， etc.
+    - RL, GAN, GCN, point cloud, etc.
 
 <b>
     <image src="https://github-readme-stats.vercel.app/api?username=sharpiless&show_icons=true&theme=tokyonight" width=400>
