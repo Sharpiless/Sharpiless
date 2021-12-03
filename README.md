@@ -3,8 +3,9 @@
 #### Hi 👋, I am **BIT可达鸭**. Welcome to my repositories. Hope you can enjoy everything here.</br>
 
 #### I'm now working on 
-    - computer vision(classification, detection and segmentation).
-    - model compression(quantization, pruning and distillation).
+    - object detection.
+    - data-free knowledge distillation.
+    - 3d tracking.
     
 #### Still intrested in  
     - RL, GAN, GCN, point cloud, etc.
