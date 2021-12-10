@@ -27,7 +27,7 @@
 
 ### others：
 
-> B站：[https://space.bilibili.com/470550823](https://space.bilibili.com/470550823)
+> Bilibili：[https://space.bilibili.com/470550823](https://space.bilibili.com/470550823)
 
 > CSDN：[https://blog.csdn.net/weixin_44936889](https://blog.csdn.net/weixin_44936889)
 
