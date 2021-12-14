@@ -3,9 +3,9 @@
 #### Hi 👋, I am **BIT可达鸭**. Welcome to my repositories. Hope you can enjoy everything here.</br>
 
 #### I'm now working on 
-    - object detection.
-    - data-free knowledge distillation.
-    - 3d tracking.
+    - Language Driven Object Detection.
+    - Data-free Knowledge Distillation.
+    - 3D Object Detection and Tracking.
     
 #### Still intrested in  
     - RL, GAN, GCN, point cloud, etc.
