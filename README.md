@@ -2,6 +2,8 @@
 
 #### Hi 👋, I am **BIT可达鸭**. Welcome to my repositories. Hope you can enjoy everything here.</br>
 
+#### QQ Group: 557684506
+
 #### I'm now working on 
     - Language Driven Object Detection.
     - Data-free Knowledge Distillation.
