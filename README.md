@@ -1,6 +1,8 @@
  ### I Love <span style="color:red">❤</span> the DeepLearning<span style="color:white">🧠</span> and Computer Vision<span style="color:white">👀</span>
 
-#### Hi 👋, I am **BIT可达鸭**. Welcome to my repositories. Hope you can enjoy everything here.</br>
+#### Hi 👋, I am **BIT可达鸭**. I am now a senior undergraduate.
+
+#### Welcome to my repositories. Hope you can enjoy everything here.</br>
 
 #### I'm now working on 
     - Language Driven Object Detection.
