@@ -2,10 +2,6 @@
 
 #### Hi 👋, I am **BIT可达鸭**. Welcome to my repositories. Hope you can enjoy everything here.</br>
 
-#### QQ Group: 557684506
-
-![](https://github.com/Sharpiless/Sharpiless/blob/main/%E5%8F%AF%E8%BE%BE%E9%B8%ADAI%E4%BA%A4%E6%B5%81%E7%BE%A4%E7%BE%A4%E8%81%8A%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
-
 #### I'm now working on 
     - Language Driven Object Detection.
     - Data-free Knowledge Distillation.
