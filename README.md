@@ -1,6 +1,6 @@
  ### I Love <span style="color:red">❤</span> the Deep Learning<span style="color:white">🧠</span> and Computer Vision<span style="color:white">👀</span>
 
-#### Hi 👋, I am **BIT可达鸭**. I am now a senior undergraduate.
+#### Hi 👋, I am **BIT可达鸭**. 
 
 #### Welcome to my repositories. Hope you can enjoy everything here.</br>
 
