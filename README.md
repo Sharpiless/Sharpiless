@@ -5,8 +5,8 @@
 #### Welcome to my repositories. Hope you can enjoy everything here.</br>
 
 #### I'm now working on 
-    - Language Driven Object Detection.
-    - Data-free Knowledge Distillation.
+    - Neural Radiance Fields.
+    - Data-free Knowledge Transfer.
     - 3D Object Detection and Tracking.
     
 #### Still intrested in  
