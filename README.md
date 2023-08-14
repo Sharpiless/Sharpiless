@@ -7,7 +7,7 @@
 #### I'm now working on 
     - Neural Radiance Fields.
     - Data-free Knowledge Transfer.
-    - 3D Object Detection and Tracking.
+    - 3D AIGC.
     
 #### Still intrested in  
     - RL, GAN, GCN, point cloud, etc.
