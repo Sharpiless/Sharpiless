@@ -1,11 +1,6 @@
-WX: 13120392966
-
-### I Love <span style="color:red">❤</span> the Deep Learning<span style="color:white">🧠</span> and Computer Vision<span style="color:white">👀</span>
 
 #### Hi 👋, I am **Yingping Liang** (梁瑛平). 
 #### Home Page: [https://sites.google.com/view/yingpingliang/](https://sites.google.com/view/yingpingliang/)
-
-#### Welcome to my repositories. Hope you can enjoy everything here.</br>
 
 #### I'm now working on 
     - Neural Radiance Fields.
@@ -39,3 +34,5 @@ WX: 13120392966
 > AI Studio：[https://aistudio.baidu.com/aistudio/personalcenter/thirdview/67156](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/67156)
 
 > Github：[https://github.com/Sharpiless](https://github.com/Sharpiless)
+
+<img src="微信图片_20231226222731.jpg" width = "40%" />
