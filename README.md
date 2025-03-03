@@ -1,14 +1,13 @@
 
 #### Hi 👋, I am **Yingping Liang** (梁瑛平). 
-#### Home Page: [https://sharpiless.github.io/](https://sharpiless.github.io/)
 
 #### I'm now working on 
     - Neural Radiance Fields.
     - Data-free Knowledge Transfer.
-    - 3D AIGC.
+    - 3D Vision.
     
 #### Still intrested in  
-    - RL, GAN, GCN, point cloud, etc.
+    - RL, GAN, GCN, etc.
 
 <b>
     <image src="https://github-readme-stats.vercel.app/api?username=sharpiless&show_icons=true&theme=tokyonight" width=400>
