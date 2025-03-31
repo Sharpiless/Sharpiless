@@ -33,5 +33,3 @@
 > AI Studio：[https://aistudio.baidu.com/aistudio/personalcenter/thirdview/67156](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/67156)
 
 > Github：[https://github.com/Sharpiless](https://github.com/Sharpiless)
-
-<img src="微信图片_20231226222731.jpg" width = "40%" />
