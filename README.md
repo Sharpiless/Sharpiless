@@ -2,9 +2,9 @@
 #### Hi 👋, I am **Yingping Liang** (梁瑛平). 
 
 #### I'm now working on 
-    - Neural Radiance Fields.
     - Data-free Knowledge Transfer.
     - 3D Vision.
+    - Depth Estimation and RGB+X data.
     
 #### Still intrested in  
     - RL, GAN, GCN, etc.
