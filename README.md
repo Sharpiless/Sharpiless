@@ -7,7 +7,7 @@
     - Depth Estimation and RGB+X data.
     
 #### Still intrested in  
-    - RL, GAN, GCN, etc.
+    - Diffusion model, Autonomous Driving, Graph Networks, etc.
 
 <b>
     <image src="https://github-readme-stats.vercel.app/api?username=sharpiless&show_icons=true&theme=tokyonight" width=400>
