@@ -1,6 +1,8 @@
 
 #### Hi 👋, I am **Yingping Liang** (梁瑛平). 
 
+![Your GitHub stars](https://github-readme-stats.vercel.app/api?username=Sharpiless&show_icons=true&hide=prs,issues&count_private=true&hide_title=true)
+
 #### I'm now working on 
     - Data-free Knowledge Transfer.
     - 3D Vision.
@@ -9,10 +11,7 @@
 #### Still intrested in  
     - Diffusion model, Autonomous Driving, Graph Networks, etc.
 
-<b>
-    <image src="https://github-readme-stats.vercel.app/api?username=sharpiless&show_icons=true&theme=tokyonight" width=400>
-    </image>
-</b>
+
 <b>
     <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharpiless&layout=compact&theme=tokyonight&hide=html" width=400></image>
 </b>
