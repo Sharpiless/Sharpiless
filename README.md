@@ -1,6 +1,4 @@
 
-#### Hi 👋, I am **Yingping Liang** (梁瑛平). 
-
 ![Your GitHub stars](https://github-readme-stats.vercel.app/api?username=Sharpiless&show_icons=true&hide=prs,issues&count_private=true&hide_title=true)
 
 #### I'm now working on 
