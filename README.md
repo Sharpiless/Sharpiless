@@ -1,5 +1,5 @@
 
-![Your GitHub stars](https://github-readme-stats.vercel.app/api?username=Sharpiless&show_icons=true&hide=prs,issues&count_private=true&hide_title=true)
+![Your GitHub stars](https://github-readme-stats.vercel.app/api?username=Sharpiless&show_icons=true&hide=prs,issues&count_private=true&hide_title=true&cache_seconds=360)
 
 #### I'm now working on 
     - Data-free Knowledge Transfer.
