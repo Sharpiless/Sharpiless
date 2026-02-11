@@ -1,5 +1,5 @@
 
-![Your GitHub stars](https://github-readme-stats.vercel.app/api?username=Sharpiless&show_icons=true&hide=prs,issues&count_private=true&hide_title=true)
+![Total Stars](https://img.shields.io/github/stars/Sharpiless?affiliations=OWNER&style=social)
 
  ### Profile Views :<br>
  <p>
