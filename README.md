@@ -1,6 +1,10 @@
 
 ![Total Stars](https://img.shields.io/github/stars/Sharpiless?affiliations=OWNER&style=social)
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sharpiless&show_icons=true&theme=default)
+
  ### Profile Views :<br>
  <p>
   <img src="https://count.getloli.com/get/@:Sharpiless" alt=":Sharpiless" />
