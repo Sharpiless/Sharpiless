@@ -1,10 +1,6 @@
 
 ![Total Stars](https://img.shields.io/github/stars/Sharpiless?affiliations=OWNER&style=social)
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sharpiless&show_icons=true&theme=default)
-
  ### Profile Views :<br>
  <p>
   <img src="https://count.getloli.com/get/@:Sharpiless" alt=":Sharpiless" />
@@ -20,14 +16,6 @@
     - Diffusion model, Autonomous Driving, Graph Networks, etc.
 
 
-<b>
-    <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharpiless&layout=compact&theme=tokyonight&hide=html" width=400></image>
-</b>
-
-<br></br>
-
-<image src="https://github-profile-trophy.vercel.app/?username=sharpiless&theme=dracula"/>
-<br></br>
 
 <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="320" />
 
