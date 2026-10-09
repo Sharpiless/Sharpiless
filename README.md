@@ -1,10 +1,11 @@
+
 <div align="center">
 
 # 👋 Hi, I'm Sharpiless
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Data-free+Knowledge+Transfer;3D+Vision+%26+Depth+Estimation;RGB%2BX+Multi-modal+Learning;Diffusion+Models+%26+Autonomous+Driving;Always+Exploring+Interesting+AI+Research..."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=850&lines=3D+Vision+%26+Geometric+Learning;Depth%2C+Optical+Flow+%26+Dense+Matching;Scalable+3D-aware+Data+Synthesis;Knowledge+Distillation+%26+Foundation+Models;Generative+3D+Vision+%26+Novel+View+Synthesis;Always+Exploring+Interesting+AI+Research..."
     alt="Typing SVG"
   />
 </a>
@@ -19,9 +20,15 @@
   <img src="https://img.shields.io/github/stars/Sharpiless?affiliations=OWNER&label=Total%20Stars&style=for-the-badge&logo=github" />
 </a>
 
-<img src="https://img.shields.io/badge/Focus-Computer%20Vision-blueviolet?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Focus-3D%20Computer%20Vision-blueviolet?style=for-the-badge" />
 
-<img src="https://img.shields.io/badge/Research-Deep%20Learning-3776AB?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Research-Geometric%20Learning-3776AB?style=for-the-badge&logo=pytorch&logoColor=white" />
+
+<br/><br/>
+
+<a href="https://scholar.google.com/citations?user=dRFMPg8AAAAJ">
+  <img src="https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
+</a>
 
 </div>
 
@@ -29,11 +36,12 @@
 
 ## 🚀 About Me
 
-- 🔬 I'm currently working on **Data-free Knowledge Transfer**
-- 👁️ Exploring **3D Vision**
-- 🌈 Researching **Depth Estimation & RGB+X Multi-modal Learning**
-- 🤖 Still interested in **Diffusion Models, Autonomous Driving, Graph Networks, etc.**
-- 💡 Interested in turning interesting research ideas into practical implementations
+- 🌐 My research focuses on **3D Computer Vision, Geometric Learning, and Robust Visual Perception**.
+- 📐 Exploring **Depth Estimation & Completion, Optical Flow, Stereo Matching, and Dense Feature Matching**.
+- 🧩 Interested in **Foundation Models, Knowledge Distillation, and Data-free Knowledge Transfer**.
+- 🏗️ Investigating **Scalable Data Synthesis and 3D-aware Data Generation** for robust visual learning.
+- 🎨 Exploring **3D Generative Models, Novel View Synthesis, and Diffusion Models**.
+- 💡 Passionate about bridging **3D Geometry, Representation Learning, and Real-world Applications**.
 - ⭐ Feel free to explore my repositories and star anything you find useful!
 
 ---
@@ -42,21 +50,37 @@
 
 <div align="center">
 
-| 🔬 Knowledge Transfer | 👁️ 3D Vision | 🌈 RGB+X |
+| 🌐 3D Vision & Geometry | 🧩 Foundation Models | 📐 Geometric Matching |
 | :---: | :---: | :---: |
-| Knowledge Distillation | Depth Estimation | Multi-modal Learning |
-| Data-free Learning | 3D Perception | RGB-D / RGB-X |
+| Depth Estimation & Completion | Knowledge Distillation | Optical Flow Estimation |
+| 3D Reconstruction & Perception | Data-free Knowledge Transfer | Stereo & Dense Matching |
 
-| 🌀 Generative Models | 🚗 Autonomous Driving | 🕸️ Graph Learning |
+| 🎨 3D Generative Models | 🏗️ Scalable Data Synthesis | 🛡️ Robust Visual Learning |
 | :---: | :---: | :---: |
-| Diffusion Models | Detection & Tracking | Graph Neural Networks |
-| Generative AI | Visual Perception | Representation Learning |
+| Novel View Synthesis | 3D-aware Data Generation | Zero-shot Generalization |
+| Diffusion & 3D Generation | Synthetic-to-Real Learning | Multi-modal Perception |
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+## 📚 Research & Publications
+
+<div align="center">
+
+My research explores the intersection of **3D Geometry**, **Foundation Models**, **Data Synthesis**, and **Robust Visual Learning**.
+
+<br/>
+
+<a href="https://scholar.google.com/citations?user=dRFMPg8AAAAJ">
+  <img src="https://img.shields.io/badge/Explore%20My%20Publications-Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -78,7 +102,7 @@
 
 ---
 
-# 🏆 GitHub Trophy
+## 🏆 GitHub Trophy
 
 <div align="center">
 
@@ -91,7 +115,7 @@
 
 ---
 
-# 🌟 Featured Projects
+## 🌟 Featured Projects
 
 <div align="center">
 
@@ -127,7 +151,7 @@
 
 ---
 
-# 👀 Profile Views
+## 👀 Profile Views
 
 <div align="center">
 
@@ -140,7 +164,7 @@
 
 ---
 
-# 💻 Coding
+## 💻 Coding
 
 <div align="center">
 
@@ -154,9 +178,13 @@
 
 ---
 
-# 🌐 Find Me
+## 🌐 Find Me
 
 <div align="center">
+
+<a href="https://scholar.google.com/citations?user=dRFMPg8AAAAJ">
+  <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
+</a>
 
 <a href="https://space.bilibili.com/470550823">
   <img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" />
@@ -182,8 +210,8 @@
 
 ### ✨ Keep Learning · Keep Coding · Keep Exploring
 
-<img src="https://img.shields.io/badge/Computer%20Vision-❤️-red?style=flat-square" />
-<img src="https://img.shields.io/badge/Deep%20Learning-🔥-orange?style=flat-square" />
+<img src="https://img.shields.io/badge/3D%20Vision-❤️-red?style=flat-square" />
+<img src="https://img.shields.io/badge/Geometric%20Learning-🔥-orange?style=flat-square" />
 <img src="https://img.shields.io/badge/Open%20Source-⭐-yellow?style=flat-square" />
 
 </div>
